@@ -10,7 +10,6 @@ All notable changes to this project will be documented in this file. See
 
 
 ### Bug Fixes
-
 * **deps:** update dependency scratch-vm to v2.1.14 ([c3e8194](https://github.com/LLK/scratch-gui/commit/c3e81945be23d2d3070f622e378b54cac8af1af2))
 
 ## [3.2.36](https://github.com/LLK/scratch-gui/compare/v3.2.35...v3.2.36) (2023-10-24)
